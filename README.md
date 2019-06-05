@@ -19,10 +19,12 @@ The following packages (libraries) need to be installed.
 
 ## Files
 
-- 'wrangle_act.ipynb': The main file containg data wrangling process
+- 'wrangle_act.ipynb': main file containg data wrangling process
 - 'wrangle_report': decribing data wrangling efforts
 - 'act_report': communicating insights with visualization on wrangled data
-- '
+- 'twitter-archive-enhanced.csv': The WeRateDogs archive
+- 'image_pred.tsv': The tweet image predictions
+- 'tweet_json.txt': Each tweet's retweet count and favorite count
 
 ## Key Points
 Key points to keep in mind when data wrangling for this project:
